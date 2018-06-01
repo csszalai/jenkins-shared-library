@@ -3,4 +3,7 @@ node {
        echo "hello"
        sh "git log -3"
     }
+    stage('Okay') {
+       echo "it's okay."
+    }
 }
