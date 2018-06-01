@@ -2,4 +2,6 @@
 
 ## Usage
 
+## Example
+
 ## Credits
