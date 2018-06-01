@@ -2,4 +2,9 @@
 
 ## Usage
 
+## Example
+
+## Something
+Sure.
+
 ## Credits
